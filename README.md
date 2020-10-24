@@ -1,4 +1,4 @@
-# Cognizant API Test Assignment
+# Wiremock Basic
 
 - When you run the application(OguzhanApplication.java), application will say "Hello, all API tests were successful" on http://localhost:8080/OguzhanApp
 - Tests can be found in the tests package. All endpoints have been tested according to swagger file.
